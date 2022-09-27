@@ -1,0 +1,3 @@
+export(pte_cont)
+export(pte_disc)
+import(stats, MASS, splines)

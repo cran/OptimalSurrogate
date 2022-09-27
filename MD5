@@ -1,0 +1,9 @@
+9d5fe61113d2a04e8c40f0d06b16303e *DESCRIPTION
+1fcd81ba845470b3ebbd363e89fb0529 *NAMESPACE
+3963abe1032d062d6881bc76be2f53d7 *R/functions.R
+868ef97ed8781a50cbacf5e05beb7140 *data/marker_cont.rda
+55418212cd2c4f672a9cdac1a9887932 *data/marker_disc.rda
+cb9d3c43743b0f4bbe01f599e681508c *man/marker_cont.Rd
+956f7810cd1292cd1373c087dba98ff4 *man/marker_disc.Rd
+c91a5dd66ec33279555e77f43daeb57f *man/pte_cont.Rd
+d817e170b30fc4b6cd1204d9a7477db0 *man/pte_disc.Rd
